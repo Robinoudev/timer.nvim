@@ -1,0 +1,8 @@
+/target/
+doc/tags
+lua/timer.so
+lua/deps/
+bin/
+*.rlib
+*.so
+vendor/
